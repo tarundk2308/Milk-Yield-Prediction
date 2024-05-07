@@ -1,0 +1,39 @@
+## Data Glossary - Milk
+
+'date': The date on which the data entry was recorded.
+
+'Birth.Date': The birth date of the animal.
+
+'animal.num': A unique identifier for the animal.
+
+'Consumed': The amount of feed or nutrition consumed by the animal.
+
+'Yield': The milk yield produced by the animal during a specific period.
+
+'Counsumed.times': The number of times feed or nutrition was consumed by the animal.
+
+'Total.Duration': The total duration of the data collection period.
+
+'avg.Duration': The average duration of a specific activity or behavior.
+
+'DaysInMilk': The number of days the animal has been in milk production.
+
+'Conductivity.LF', 'Conductivity.LR', 'Conductivity.RF', 'Conductivity.RR': Conductivity values from different parts of the animal's body (possibly related to health monitoring).
+
+'lactation': The lactation cycle or phase of the animal (e.g., early lactation, mid-lactation).
+
+'month': The month during which the data was recorded.
+
+'age': The age of the animal.
+
+In the context of a dataset related to milk yield and possibly animal health monitoring, the terms "Conductivity LF," "Conductivity LR," "Conductivity RF," and "Conductivity RR" likely refer to conductivity measurements taken at different locations on an animal's body. Conductivity measurements are often used in livestock management to assess the health and well-being of animals, particularly dairy cows. Here's the breakdown of these terms:
+
+1. 'Conductivity LF': Conductivity measurement taken on the left front (LF) side of the animal's body, potentially near a specific anatomical location. This measurement could provide insights into the health status of that part of the body.
+
+2. 'Conductivity LR': Conductivity measurement taken on the left rear (LR) side of the animal's body, likely at a particular location. Similar to the LF measurement, this could provide information about the health or condition of the rear part of the body.
+
+3. 'Conductivity RF': Conductivity measurement taken on the right front (RF) side of the animal's body. This measurement might be used to assess the health of the animal's body on the right side, possibly detecting variations or abnormalities.
+
+4. 'Conductivity RR': Conductivity measurement taken on the right rear (RR) side of the animal's body. Similar to the RF measurement, this could offer information about the health or status of the right rear side of the body.
+
+Conductivity measurements are often used as an indicator of health changes because variations in conductivity can be related to changes in skin moisture, which can be associated with certain health conditions or stress. For example, increased conductivity might indicate inflammation or an issue in the measured area.
